@@ -1,4 +1,4 @@
-# eBay price tracker
+# Ebay Price Tracker And Bidder
 This is a Python script that tracks prices for specific items on eBay and sends notifications via xdroid.net API when the price falls within a specified range.
 
 ## Requirements
