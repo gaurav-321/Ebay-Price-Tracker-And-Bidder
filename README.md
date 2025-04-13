@@ -62,7 +62,7 @@ item_info = {
 send_notification(item_info)
 ```
 
-## 🔧 Configuration (if applicable)
+## 🔧 Configuration
 
 The script does not require any configuration files. The search queries and price ranges are defined within the `search_list` variable in the `main.py` file.
 
